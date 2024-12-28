@@ -20,7 +20,7 @@ const App = () => {
 
   return(
     <div>
-      <h1>Lojinha dos Cria</h1>
+      <h1>Lojinha</h1>
       <button style={{margin: '.5rem'}} onClick={handleClick}>Notebook</button>
       <button style={{margin: '.5rem'}} onClick={handleClick}>Smartphone</button>
       <button style={{margin: '.5rem'}} onClick={handleClick}>Tablet</button>
